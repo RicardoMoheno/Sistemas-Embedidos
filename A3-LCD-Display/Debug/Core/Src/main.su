@@ -1,0 +1,15 @@
+../Core/Src/main.c:65:5:main	16	static
+../Core/Src/main.c:130:6:SystemClock_Config	72	static
+../Core/Src/main.c:167:13:MX_GPIO_Init	32	static
+../Core/Src/main.c:201:6:LCD_init	8	static
+../Core/Src/main.c:214:6:LCD_cmd	16	static,ignoring_inline_asm
+../Core/Src/main.c:223:6:LCD_read	16	static,ignoring_inline_asm
+../Core/Src/main.c:232:6:set_LCD_dir	16	static
+../Core/Src/main.c:241:6:send_to_LCD	16	static,ignoring_inline_asm
+../Core/Src/main.c:251:6:set_cursor_pos	24	static,ignoring_inline_asm
+../Core/Src/main.c:266:6:move_cursor_n_times	24	static
+../Core/Src/main.c:277:6:write_string_LCD	16	static
+../Core/Src/main.c:282:6:write_int_LCD	24	static
+../Core/Src/main.c:299:6:create_custom_char	24	static
+../Core/Src/main.c:316:6:disp_custom_char	16	static
+../Core/Src/main.c:335:6:Error_Handler	4	static,ignoring_inline_asm
